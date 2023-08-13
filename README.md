@@ -21,5 +21,5 @@ This project is based on the Indian and Southeast Asian market.
 - Finding the important coefficents
 
 ## Details of files given
-- Telecom_Churn_Assignment_3.ipynb : The python file showing coding and data analysis
+- Telecom_Churn_Assignment_3-2.ipynb : The python file showing coding and data analysis
 - Data+Dictionary-+Telecom+Churn+Case+Study.xlsx : Data Dictionary
